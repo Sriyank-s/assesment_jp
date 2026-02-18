@@ -263,7 +263,6 @@ Benefits:
 - Uplift modeling
 
 ---
-> 📄 For a complete explanation of the business reasoning, modeling decisions, economic evaluation, fairness analysis, and detailed interpretation, please read the full project report: [Client_Report.pdf](Client_Report.pdf)
-
+> 📄 For a complete explanation of the business reasoning, modeling decisions, economic evaluation, fairness analysis, and detailed interpretation, please read the full project report: Client_Report.pdf
 
 
